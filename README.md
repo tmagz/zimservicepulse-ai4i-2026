@@ -2,7 +2,7 @@
 
 **AI4I 2026 – Track 2: Design**  
 **Team:** PulseForge Zimbabwe  
-**Lead Innovator:** Taku Gondo  
+**Lead Innovator:** Dr Eng F.J Kiwa  
 **Date:** 14 July 2026  
 **Primary Dataset:** `01_public_service_requests.csv`
 
